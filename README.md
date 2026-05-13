@@ -1,10 +1,10 @@
-# 📊 NAFS Students Test Analysis Dashboard
+# NAFS Students Test Analysis Dashboard
 
 An interactive educational analytics project developed for the **NAFS Platform** to monitor, evaluate, and analyze students’ academic performance across multiple classes through connected dashboards and dynamic reporting.
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 This project provides a comprehensive analytical solution for tracking and evaluating student assessment performance using interactive Excel dashboards.
 
@@ -20,23 +20,23 @@ The dashboards were designed to support educational decision-making through clea
 
 ---
 
-# 🏫 Project Structure
+# Project Structure
 
 The project consists of:
 
-## 📌 Dashboards
+## Dashboards
 - 6 Interactive Connected Dashboards
 - Each dashboard represents a separate class
 - Dynamic navigation between dashboards
 
-## 📄 Data Sheets
+## Data Sheets
 - 6 Dedicated Data Sheets
 - Each sheet contains class-specific student data
 - Connected to all dashboard visuals and KPIs
 
 ---
 
-# 📈 Key Features
+# Key Features
 
 ✅ Interactive dashboards  
 ✅ Dynamic KPI cards  
@@ -51,7 +51,7 @@ The project consists of:
 
 ---
 
-# 📊 KPIs Included
+# KPIs Included
 
 The dashboards monitor important educational metrics such as:
 
@@ -66,7 +66,7 @@ The dashboards monitor important educational metrics such as:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -78,7 +78,7 @@ The dashboards monitor important educational metrics such as:
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The dashboard solution helps the **NAFS Platform** to:
 
@@ -91,13 +91,13 @@ The dashboard solution helps the **NAFS Platform** to:
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ![NAFS Dashboard Preview](dashboard Test Analysis.png)
 
 ---
 
-# 🔍 Insights Generated
+# Insights Generated
 
 The dashboards provide insights into:
 
@@ -110,7 +110,7 @@ The dashboards provide insights into:
 
 ---
 
-# ⭐ About This Repository
+# About This Repository
 
 This repository showcases a professional educational analytics solution developed for the **NAFS Platform**, transforming raw assessment data into meaningful insights through interactive dashboards and modern data visualization.
 
