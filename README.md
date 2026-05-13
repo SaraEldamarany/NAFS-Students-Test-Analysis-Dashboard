@@ -93,7 +93,7 @@ The dashboard solution helps the **NAFS Platform** to:
 
 # Dashboard Preview
 
-![NAFS Dashboard Preview](dashboard Test Analysis.png)
+![NAFS Dashboard Preview](./dashboard%20Test%20Analysis.png)
 ---
 
 # Insights Generated
